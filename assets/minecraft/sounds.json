@@ -1,8 +1,0 @@
-{
-    "entity.villager.hurt":{
-        "replace":true,
-        "sounds":[
-            "mob/villager/villagerHurt1"
-        ]
-    }
-}

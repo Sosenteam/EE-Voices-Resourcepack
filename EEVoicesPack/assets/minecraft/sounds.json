@@ -1,0 +1,15 @@
+{
+    "entity.villager.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerHurt1"
+        ]
+    },
+    "entity.villager.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerAmbient1"
+        ]
+    }
+
+}
