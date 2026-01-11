@@ -8,7 +8,8 @@
     "entity.villager.ambient":{
         "replace":true,
         "sounds":[
-            "mob/villager/villagerAmbient1"
+            "mob/villager/villagerAmbient1",
+            "mob/villager/villagerAmbient2"
         ]
     },
     "entity.villager.celebrate":{
