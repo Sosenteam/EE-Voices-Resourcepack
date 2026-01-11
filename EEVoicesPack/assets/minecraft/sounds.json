@@ -10,6 +10,37 @@
         "sounds":[
             "mob/villager/villagerAmbient1"
         ]
+    },
+    "entity.villager.celebrate":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerCelebrate1"
+        ]
+    },
+    "entity.villager.yes":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerYes1"
+        ]
+    },
+    "entity.villager.no":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerNo1"
+        ]
+    },
+    "entity.villager.death":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerDeath1"
+        ]
+    },
+    "entity.villager.trade":{
+        "replace":true,
+        "sounds":[
+            "mob/villager/villagerTrade1"
+        ]
     }
+    
 
 }
