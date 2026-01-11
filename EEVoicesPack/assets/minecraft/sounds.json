@@ -8,8 +8,15 @@
     "entity.villager.ambient":{
         "replace":true,
         "sounds":[
-            "mob/villager/villagerAmbient1",
-            "mob/villager/villagerAmbient2"
+            {
+             "name":"mob/villager/villagerAmbient1",
+             "weight":1
+            },
+            {
+             "name":"mob/villager/villagerAmbient2",
+             "weight":5
+            }
+            
         ]
     },
     "entity.villager.celebrate":{
@@ -42,6 +49,7 @@
             "mob/villager/villagerTrade1"
         ]
     }
+    
     
 
 }
