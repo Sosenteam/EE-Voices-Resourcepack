@@ -48,8 +48,71 @@
         "sounds":[
             "mob/villager/villagerTrade1"
         ]
+    },
+    "entity.blaze.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/blaze/blazeAmbient1"
+        ]
+    },
+    "entity.blaze.burn":{
+        "replace":true,
+        "sounds":[
+            "mob/blaze/blazeBurn1"
+        ]
+    },
+    "entity.blaze.death":{
+        "replace":true,
+        "sounds":[
+            "mob/blaze/blazeDeath1"
+        ]
+    },
+    "entity.blaze.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/blaze/blazeHurt1"
+        ]
+    },
+    "entity.blaze.shoot":{
+        "replace":true,
+        "sounds":[
+            "mob/blaze/blazeShoot1",
+            "mob/blaze/blazeShoot2",
+            "mob/blaze/blazeShoot3"
+        ]
+    },
+    "entity.cow.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/cow/cowAmbient1",
+            "mob/cow/cowAmbient2",
+            "mob/cow/cowAmbient3",
+            "mob/cow/cowAmbient4"
+        ]
+    },
+    "entity.cow.death":{
+        "replace":true,
+        "sounds":[
+            "mob/cow/cowDeath1"
+        ]
+    },
+    "entity.cow.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/cow/cowHurt1"
+        ]
+    },
+    "entity.cow.milk":{
+        "replace":true,
+        "sounds":[
+            "mob/cow/cowMilk1"
+        ]
+    },
+    "entity.cow.step":{
+        "replace":true,
+        "sounds":[
+            "mob/cow/cowWalk1"
+        ]
     }
-    
-    
 
 }
