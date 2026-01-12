@@ -128,6 +128,68 @@
         "sounds":[
             "block/bell/bellResonate1"
         ]
+    },
+    "entity.sheep.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/sheep/sheepAmbient1",
+            "mob/sheep/sheepAmbient2",
+            "mob/sheep/sheepAmbient3"
+        ]
+    },
+    "entity.sheep.death":{
+        "replace":true,
+        "sounds":[
+            "mob/sheep/sheepDeath1"
+        ]
+    },
+    "entity.sheep.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/sheep/sheepHurt1"
+        ]
+    },
+    "entity.sheep.shear":{
+        "replace":true,
+        "sounds":[
+            "mob/sheep/sheepShear1"
+        ]
+    },
+    "entity.sheep.step":{
+        "replace":true,
+        "sounds":[
+            "mob/sheep/sheepStep1"
+        ]
+    },
+    "entity.pig.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/pig/pigAmbient1"
+        ]
+    },
+    "entity.pig.death":{
+        "replace":true,
+        "sounds":[
+            "mob/pig/pigDeath1"
+        ]
+    },
+    "entity.pig.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/pig/pigHurt1"
+        ]
+    },
+    "entity.pig.saddle":{
+        "replace":true,
+        "sounds":[
+            "mob/pig/pigEquid1"
+        ]
+    },
+    "entity.pig.step":{
+        "replace":true,
+        "sounds":[
+            "mob/pig/pigStep1"
+        ]
     }
 
 }
