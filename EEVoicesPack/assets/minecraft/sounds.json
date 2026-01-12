@@ -73,7 +73,8 @@
         "replace":true,
         "sounds":[
             "mob/blaze/blazeHurt1"
-        ]
+        ],
+        "volume":0.5
     },
     "entity.blaze.shoot":{
         "replace":true,
