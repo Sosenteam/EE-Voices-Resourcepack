@@ -190,6 +190,38 @@
         "sounds":[
             "mob/pig/pigStep1"
         ]
+    },
+    "entity.chicken.ambient":{
+        "replace":true,
+        "sounds":[
+            "mob/chicken/chickenAmbient1",
+            "mob/chicken/chickenAmbient2",
+            "mob/chicken/chickenAmbient3"
+        ]
+    },
+    "entity.chicken.death":{
+        "replace":true,
+        "sounds":[
+            "mob/chicken/chickenDeath1"
+        ]
+    },
+    "entity.chicken.hurt":{
+        "replace":true,
+        "sounds":[
+            "mob/chicken/chickenHurt1"
+        ]
+    },
+    "entity.chicken.egg":{
+        "replace":true,
+        "sounds":[
+            "mob/chicken/chickenEgg1"
+        ]
+    },
+    "entity.chicken.step":{
+        "replace":true,
+        "sounds":[
+            "mob/chicken/chickenStep1"
+        ]
     }
 
 }
