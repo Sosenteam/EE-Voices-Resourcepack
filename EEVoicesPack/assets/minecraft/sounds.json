@@ -54,14 +54,14 @@
         "sounds":[
             "mob/blaze/blazeAmbient1"
         ],
-        "volume":0.4
+        "volume":0.1
     },
     "entity.blaze.burn":{
         "replace":true,
         "sounds":[
             "mob/blaze/blazeBurn1"
         ],
-        "volume":0.25
+        "volume":0.1
     },
     "entity.blaze.death":{
         "replace":true,
