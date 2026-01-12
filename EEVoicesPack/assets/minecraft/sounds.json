@@ -116,6 +116,18 @@
         "sounds":[
             "mob/cow/cowWalk1"
         ]
+    },
+    "block.bell.use":{
+        "replace":true,
+        "sounds":[
+            "block/bell/bellUse1"
+        ]
+    },
+    "block.bell.resonate":{
+        "replace":true,
+        "sounds":[
+            "block/bell/bellResonate1"
+        ]
     }
 
 }
