@@ -182,7 +182,7 @@
     "entity.pig.saddle":{
         "replace":true,
         "sounds":[
-            "mob/pig/pigEquid1"
+            "mob/pig/pigEquip1"
         ]
     },
     "entity.pig.step":{
